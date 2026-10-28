@@ -54,5 +54,11 @@ further reducing its reliance on ground water.
 down in UWR RoU Standard 8.1 and further establish qualification of the project under Scope
 4 & Scope 5 for RoUs under the Standard. Also refer Annexure to this report for sample
 evidences supporting its procurement of untreated corporation sewage as described above. 
+____________
+Issuance Date: 28/10/2026
+qty: 6939749
+MP-01: 2020-2025
+___________
+
 
 
