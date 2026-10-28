@@ -54,11 +54,65 @@ further reducing its reliance on ground water.
 down in UWR RoU Standard 8.1 and further establish qualification of the project under Scope
 4 & Scope 5 for RoUs under the Standard. Also refer Annexure to this report for sample
 evidences supporting its procurement of untreated corporation sewage as described above. 
+
+The ETP & STP units at Naroda are primary wastewater & effluent treatment initiatives for the PP, which
+treats the wastewater & effluents to make gainful reuse for various purposes such as process reuse,
+irrigation & gardening, dust suppression, engineering utilities, and other administrative purposes. When
+operating and maintaining a Sewage Treatment Plant (STP), certain preventive measures should be
+considered to ensure its efficiency, longevity, and environmental compliance. Here are the key preventive
+measures:
+
+1. Contributing to water conservation and sustainable resource management aligns with global and
+local sustainability initiatives.
+
+2. STP treats wastewater to remove harmful pollutants, ensuring that only clean, treated water can
+be reused for non-potable purposes such as irrigation, landscaping, etc.
+
+3. Proper wastewater treatment prevents excessive groundwater use, which is crucial for regions
+relying on underground aquifers.
+
+4. Reusing treated wastewater reduces the dependency on freshwater sources, lowering water
+procurement costs. 
 ____________
 Issuance Date: 28/10/2026
-qty: 6939749
+
+qty: 6939749 RoUs
+
 MP-01: 2020-2025
 ___________
+Serial Number: 0001-000001-367425-UWR-RoU-IN-579-01012020-31122020
 
+Vintage Year: 2020
 
+Quantity: 367425
+___________
+Serial Number: 0001-367426-2223011-UWR-RoU-IN-579-01012021-31122021
 
+Vintage Year: 2021
+
+Quantity: 1855586
+_________________
+Serial Number: 0001-2223012-3440841-UWR-RoU-IN-579-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 1217830
+__________________
+Serial Number: 0001-3440842-4448834-UWR-RoU-IN-579-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 1007993
+_______________
+Serial Number: 0001-4448835-5686066-UWR-RoU-IN-579-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 1237232
+_______________
+Serial Number: 0001-5686067-6939749-UWR-RoU-IN-579-01012025-31122025
+
+Vintage Year: 2025
+
+Quantity: 1253683
+_______________
